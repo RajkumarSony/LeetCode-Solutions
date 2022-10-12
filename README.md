@@ -4,7 +4,9 @@ About Submit Just 4 PRs to earn SWAGS and Tshirts🔥
 
 # 🌱 Contributing to hacktoberfest 2022
 
-![Hacktoberfest 2022](https://github.com/RajkumarSony/LeetCode-Solutions/blob/main/logo.png)
+<p align="center">
+  <a href="https://github.com/doocs/leetcode"><img src="https://cdn-doocs.oss-cn-shenzhen.aliyuncs.com/gh/doocs/leetcode@main/images/leetcode-doocs.png" alt="LeetCode-GitHub-Doocs"></a>
+</p>
 
 ---
 
@@ -103,9 +105,7 @@ git push origin branch-name
 - Make Sure you Give proper name to your files describing the addition.
 - Also Make Sure you comment your code whereever necessary.
 
-<p align="center">
-  <a href="https://github.com/doocs/leetcode"><img src="https://cdn-doocs.oss-cn-shenzhen.aliyuncs.com/gh/doocs/leetcode@main/images/leetcode-doocs.png" alt="LeetCode-GitHub-Doocs"></a>
-</p>
+![Hacktoberfest 2022](https://github.com/RajkumarSony/LeetCode-Solutions/blob/main/logo.png)
 
 
 
