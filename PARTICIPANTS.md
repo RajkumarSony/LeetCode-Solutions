@@ -29,6 +29,16 @@
 - 🔭 Connect with me: **[Harshdev625](https://github.com/Harshdev625))**
 
 ---
+### Connect with me:
+
+<img align="right" src="https://avatars3.githubusercontent.com/manavagr1108?size=100" width="100px;" alt=""/>
+
+- 👨‍💻 My name is **Manav Aggarwal**
+- 🌱 I’m a Back-End Developer.
+- 📫 Reach me: **manavagr1108@gmail.com**
+- 🔭 Connect with me: **[manavagr1108](https://github.com/manavagr1108))**
+
+---
 
   <img align="right" src="https://avatars3.githubusercontent.com/<Github-ID>?size=100" width="100px;" alt=""/>
 
