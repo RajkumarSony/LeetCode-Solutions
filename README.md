@@ -34,7 +34,7 @@ About Submit Just 4 PRs to earn SWAGS and Tshirts🔥
 
 ---
 
-## ⚠️⚠️ **Add your information in PARTICIPANTS.md after pull/merge requests**. ⚠️⚠️
+## ⚠️ **Add your information in PARTICIPANTS.md after pull/merge requests**. ⚠️
 
 ---
 
