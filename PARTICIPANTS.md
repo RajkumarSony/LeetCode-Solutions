@@ -38,6 +38,16 @@
 - 📫 Reach me: **manavagr1108@gmail.com**
 - 🔭 Connect with me: **[manavagr1108](https://github.com/manavagr1108))**
 
+### Connect with me
+
+  <img align="right" src="https://avatars3.githubusercontent.com/Devansh-Walia?size=100" width="100px;" alt=""/>
+
+- 👨‍💻 My name is **Devansh**
+- 🌱 I’m a Full-Stack Developer.
+- 📫 Reach me: **devanshwalia9898@gmail.com**
+- 🔭 Connect with me: **[<Github-ID>](https://github.com/Devansh-Walia)**
+
+
 ---
 
   <img align="right" src="https://avatars3.githubusercontent.com/<Github-ID>?size=100" width="100px;" alt=""/>
