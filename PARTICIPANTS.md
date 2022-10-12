@@ -21,7 +21,16 @@
 
 ### Connect with me:
 
-<img align="right" src="https://avatars3.githubusercontent.com/<Github-ID>?size=100" width="100px;" alt=""/>
+<img align="right" src="https://avatars3.githubusercontent.com/Harshdev625?size=100" width="100px;" alt=""/>
+
+- 👨‍💻 My name is **Harsh Dev**
+- 🌱 I’m a Competitive Programmer and Front-End Developer.
+- 📫 Reach me: **devh9933@gmail.com>**
+- 🔭 Connect with me: **[Harshdev625](https://github.com/Harshdev625))**
+
+---
+
+  <img align="right" src="https://avatars3.githubusercontent.com/<Github-ID>?size=100" width="100px;" alt=""/>
 
 - 👨‍💻 My name is **<Name>**
 - 🌱 I’m a <Profession>.
@@ -29,4 +38,3 @@
 - 🔭 Connect with me: **[<Github-ID>](<Github-Link>)**
 
 ---
-
