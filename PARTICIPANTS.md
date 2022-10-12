@@ -21,7 +21,7 @@
 
 ### Connect with me:
 
-<img align="right" src="[https://avatars3.githubusercontent.com/<Github-ID>?size=100](https://avatars.githubusercontent.com/u/98793412?s=400&u=659b5c41978e33a51ae0a112a38abc3d1c44461f&v=4)" width="100px;" alt=""/>
+<img align="right" src="https://avatars3.githubusercontent.com/Harshdev625?size=100" width="100px;" alt=""/>
 
 - 👨‍💻 My name is **Harsh Dev**
 - 🌱 I’m a Competitive Programmer and Front-End Developer.
