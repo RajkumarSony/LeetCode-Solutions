@@ -18,6 +18,9 @@ About Submit Just 4 PRs to earn SWAGS and Tshirts🔥
 
 ---
 
+![Hacktoberfest 2022](https://github.com/RajkumarSony/LeetCode-Solutions/blob/main/logo.png)
+
+
 ## Rules
 
 - Don't use filthy words and be welcome for beginners and other people in this community.
@@ -105,8 +108,8 @@ git push origin branch-name
 - Make Sure you Give proper name to your files describing the addition.
 - Also Make Sure you comment your code whereever necessary.
 
-![Hacktoberfest 2022](https://github.com/RajkumarSony/LeetCode-Solutions/blob/main/logo.png)
 
+<p align="center">  <img src="https://octodex.github.com/images/jetpacktocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/trekkie.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/skatetocat.png" height="160px" width="160px"></p>
 
 
 <!--       END OF README           END OF README         END OF README         END OF README          END OF README           END OF README           END OF README      -->
