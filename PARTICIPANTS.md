@@ -5,7 +5,7 @@
   <a href="https://github.com/doocs/leetcode"><img src="https://cdn-doocs.oss-cn-shenzhen.aliyuncs.com/gh/doocs/leetcode@main/images/leetcode-doocs.png" alt="LeetCode-GitHub-Doocs"></a>
 </p>
 
-<h3 align="center">HacktoberFest 2020 contributers details</h3>
+<h3 align="center">HacktoberFest 2022 contributers details</h3>
 
 ---
 ### Connect with me:
