@@ -1,4 +1,4 @@
-class Solution(object):
+class ReapeatingCharacters(object):
    def lengthOfLongestSubstring(self, s):
       i =0
       j = 0
@@ -15,5 +15,5 @@ class Solution(object):
          #print(ans)
          j+=1
       return ans
-ob1 = Solution()
+ob1 = ReapeatingCharacters()
 print(ob1.lengthOfLongestSubstring("ABCABCBB"))
