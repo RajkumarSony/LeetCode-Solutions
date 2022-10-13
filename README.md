@@ -46,11 +46,15 @@ About Submit Just 4 PRs to earn SWAGS and Tshirts🔥
 ### What can You contribute ⚠️
 
 - There are language Specific folders in the repository choose any you're comfortable with if not, make one.
-- Inside the Projects folder, Upload the unique projects with proper project title.
-- Contribute your small or mini projects, that can be in different languages.
+- Inside the spacific folder, Upload the unique LeetCode's programs.
+- Contribute your LeetCode's programs, that can be in different languages.
 - Make sure your follow the below steps.
 
 ---
+
+
+
+<img align="right" src="https://github.com/RajkumarSony/HacktoberFest2022/blob/main/20211121_145218.jpeg.jpg" height="300" alt="LeetCode-GitHub-Doocs">
 
 ### Process are as follows :-
 
