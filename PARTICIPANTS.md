@@ -42,9 +42,9 @@
 
   <img align="right" src="https://avatars3.githubusercontent.com/<Github-ID>?size=100" width="100px;" alt=""/>
 
-- 👨‍💻 My name is **<Name>**
-- 🌱 I’m a <Profession>.
-- 📫 Reach me: **<Email-ID>**
-- 🔭 Connect with me: **[<Github-ID>](<Github-Link>)**
+- 👨‍💻 My name is **Rivu banerjee**
+- 🌱 I’m a Web developement.
+- 📫 Reach me: **rivubanerjee2003@gmail.com**
+- 🔭 Connect with me: **[rivubanerjee04](https://github.com/rivubanerjee04))**
 
 ---
