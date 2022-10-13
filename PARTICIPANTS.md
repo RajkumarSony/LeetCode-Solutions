@@ -48,3 +48,9 @@
 - 🔭 Connect with me: **[rivubanerjee04](https://github.com/rivubanerjee04))**
 
 ---
+  <img align="right" src="https://avatars3.githubusercontent.com/sarapapa-sp?size=100" width="100px;" alt=""/>
+
+- 👨‍💻 My name is **Shubham Pawar**
+- 🌱 I’m a Back-end Developer.
+- 📫 Reach me: **shubhampawar17053@gmail.com**
+- 🔭 Connect with me: **[rivubanerjee04](https://github.com/sarapapa-sp))**
