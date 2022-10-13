@@ -1,8 +1,11 @@
 # HacktoberFest2022
 About Submit Just 4 PRs to earn SWAGS and Tshirts🔥
 
+# Star ⭐ is mindetory for successful pull/merge request. Don't avoid it.
 
-# 🌱 Contributing to hacktoberfest 2022
+---
+
+# 🌱 Contributing to hacktoberfest 2022 
 
 <p align="center">
   <a href="https://github.com/doocs/leetcode"><img src="https://cdn-doocs.oss-cn-shenzhen.aliyuncs.com/gh/doocs/leetcode@main/images/leetcode-doocs.png" alt="LeetCode-GitHub-Doocs"></a>
