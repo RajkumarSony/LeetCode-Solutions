@@ -48,3 +48,14 @@
 - 🔭 Connect with me: **[rivubanerjee04](https://github.com/rivubanerjee04))**
 
 ---
+
+### Connect with me:
+
+<img align="right" src="https://avatars3.githubusercontent.com/manavagr1108?size=100" width="100px;" alt=""/>
+
+- 👨‍💻 My name is **Malay Kumar Jain**
+- 🌱 I’m a Java Developer.
+- 📫 Reach me: **malayjain1308@gmail.com**
+- 🔭 Connect with me: **[jainmalaykumar](https://github.com/jainmalaykumar))**
+
+---
