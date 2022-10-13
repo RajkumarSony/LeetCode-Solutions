@@ -3,6 +3,8 @@ About Submit Just 4 PRs to earn SWAGS and Tshirts🔥
 
 # Star ⭐ is mindetory for successful pull/merge request. Don't avoid it.
 
+# Add your information in PARTICIPANTS.md before pull/merge requests.
+
 ---
 
 # 🌱 Contributing to hacktoberfest 2022 
@@ -39,10 +41,6 @@ About Submit Just 4 PRs to earn SWAGS and Tshirts🔥
 - This year, the first 40,000 participants can earn a T-shirt.
 - Read GUIDELINES.md and RULES.md before making a PR.
 -
-
----
-
-## ⚠️ **Add your information in PARTICIPANTS.md after pull/merge requests**.
 
 ---
 
