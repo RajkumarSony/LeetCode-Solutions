@@ -3,7 +3,7 @@ About Submit Just 4 PRs to earn SWAGS and Tshirts🔥
 
 # Star ⭐ is mindetory for successful pull/merge request. Don't avoid it.
 
-# Add your information in PARTICIPANTS.md after pull/merge requests.
+# Add your information in PARTICIPANTS.md before pull/merge requests.
 
 ---
 
