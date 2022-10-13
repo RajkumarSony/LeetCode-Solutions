@@ -81,19 +81,11 @@
 ---
 ### Connect with me:
 
-  <img align="right" src="https://avatars3.githubusercontent.com/sarapapa-sp?size=100" width="100px;" alt=""/>
+  <img align="right" src="https://avatars3.githubusercontent.com/<Github-ID>?size=100" width="100px;" alt=""/>
 
-- 👨‍💻 My name is **Shubham Pawar**
-- 🌱 I’m a Back-end Developer.
-- 📫 Reach me: **shubhampawar17053@gmail.com**
-- 🔭 Connect with me: **[rivubanerjee04](https://github.com/sarapapa-sp)**
+- 👨‍💻 My name is *<Name>r**
+- 🌱 I’m a <Profession>.
+- 📫 Reach me: **<Email-ID>**
+- 🔭 Connect with me: **[<Github-ID>](https://github.com/<Github-ID>)**
 
----
-### Connect with me:
-
-  <img align="right" src="https://avatars3.githubusercontent.com/Sam0204?size=100" width="100px;" alt=""/>
-
-- 👨‍💻 My name is **Sandesh Powar**
-- 🌱 I’m a Web Developer.
-- 📫 Reach me: **sandeshpowarofficial@gmail.com**
-- 🔭 Connect with me: **[Sam0204](https://github.com/Sam0204)**
+--->
