@@ -48,3 +48,12 @@
 - 🔭 Connect with me: **[rivubanerjee04](https://github.com/rivubanerjee04))**
 
 ---
+
+ <img align="right" src="https://avatars3.githubusercontent.com/<Github-ID>?size=100" width="100px;" alt=""/>
+
+- 👨‍💻 My name is **Swastik mohapatra**
+- 🌱 I’m a Web developement.
+- 📫 Reach me: **swastikmohapatra13@gmail.com**
+- 🔭 Connect with me: **[SwastikMo](https://github.com/SwastikMo))**
+
+---
