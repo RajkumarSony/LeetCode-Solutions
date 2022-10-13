@@ -1,0 +1,29 @@
+class Solution {
+    public boolean isPowerOfTwo(int n) {
+      
+      // we shall be converting the number into its binary form 
+      // and if the sum of 1's in the binary form = 1 then the number given is even .
+      
+      int s=0;  // declr 
+      
+      // while loop for integer to binary conversion and summing over the remainder .
+      while(n!=0){
+          s=s+n%2;
+          n=n/2;
+      }
+      
+      // condition to check if multiple of 2 or not 
+      if(s==1)return true ;
+        else return false;
+    }
+}
+/** variable                type                     description 
+       s                    integer                   to store sum of 1's in binary 
+     */
+     
+ 
+// output : 
+/** 
+      Runtime: 2 ms, faster than 76.89% of Java online submissions for Power of Two.
+      Memory Usage: 41.4 MB, less than 47.50% of Java online submissions for Power of Two.
+      */
