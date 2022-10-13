@@ -48,3 +48,13 @@
 - 🔭 Connect with me: **[rivubanerjee04](https://github.com/rivubanerjee04))**
 
 ---
+
+
+  <img align="right" src="https://avatars3.githubusercontent.com/<Github-ID>?size=100" width="100px;" alt=""/>
+
+- 👨‍💻 My name is **Yash Shinde**
+- 🌱 I’m a AI-ML Enthusiasts.
+- 📫 Reach me: **yashrshinde200203@gmail.com**
+- 🔭 Connect with me: **[yashshinde03](https://github.com/yashshinde03))**
+
+---
