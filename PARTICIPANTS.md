@@ -10,24 +10,24 @@
 ---
 ### Connect with me:
 
-<img align="right" src="https://avatars3.githubusercontent.com/kuldip23798?size=100" width="100px;" alt=""/>
+<img align="right" src="https://avatars3.githubusercontent.com/RajkumarSony?size=100" width="100px;" alt=""/>
 
 - 👨‍💻 My name is **RAJ KUMAR SONY**
 - 🌱 I’m a FullStack Developer.
 - 📫 Reach me: **rk.sony4848@gmail.com**
-- 🔭 Connect with me: **[Kuldip](https://github.com/kuldip23798/)**
+- 🔭 Connect with me: **[RajkumarSony](https://github.com/RajkumarSony/)**
 
 ---
 
 ---
 ### Connect with me:
 
-<img align="right" src="https://avatars3.githubusercontent.com/RajkumarSony?size=100" width="100px;" alt=""/>
+<img align="right" src="https://avatars3.githubusercontent.com/kuldip23798?size=100" width="100px;" alt=""/>
 
 - 👨‍💻 My name is **KULDIP**
 - 🌱 I’m a Backend Developer.
 - 📫 Reach me: **kuldipbhanushali3@gmail.com**
-- 🔭 Connect with me: **[RajkumarSony](https://github.com/RajkumarSony/)**
+- 🔭 Connect with me: **[Kuldip](https://github.com/RajkumarSony/)**
 
 ---
 
