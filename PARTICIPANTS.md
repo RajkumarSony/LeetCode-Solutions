@@ -121,3 +121,13 @@
 - 🔭 Connect with me: **[jainmalaykumar](https://github.com/jainmalaykumar))**
 
 ---
+### Connect with me:
+
+<img align="right" src="https://avatars3.githubusercontent.com/<Github-ID>?size=100" width="100px;" alt=""/>
+
+- 👨‍💻 My name is **Piyush**
+- 🌱 I’m a JavaScript Developer.
+- 📫 Reach me: **rajpiyush100@gmail.com**
+- 🔭 Connect with me: **[Piyushjar](https://github.com/piyushjar))**
+
+---
