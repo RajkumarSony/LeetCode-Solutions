@@ -1,19 +1,18 @@
 class Solution {
-
     public int reverse(int x) {
-        boolean isNegative = x < 0;
+        boolean negative = false;
+        long revInt = 0;
 
-        x = Math.abs(x);
-
-        int num = 0;
-
-        while (x > 0) {
-            if (Integer.MAX_VALUE / 10 < num) return 0;
-
-            num = 10 * num + x % 10;
-            x /= 10;
+        if(x < 0) {
+            negative = true;
+            x = -x;
         }
 
-        return isNegative ? -num : num;
+        while(x > 0){
+            revInt = (10*revInt) + (x % 10);
+            x /= 10;
+        }
+        if(revInt < Integer.MIN_VALUE || revInt > Integer.MAX_VALUE) return 0;
+        if(negative) return (int) -revInt; else return (int) revInt;
     }
 }
