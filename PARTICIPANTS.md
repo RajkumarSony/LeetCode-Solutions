@@ -62,11 +62,13 @@
 - 🌱 I’m a Web Developer.
 - 📫 Reach me: **sandeshpowarofficial@gmail.com**
 - 🔭 Connect with me: **[Sam0204](https://github.com/Sam0204))**
+### Connect with me:
 
----
-  <img align="right" src="https://avatars3.githubusercontent.com/sarapapa-sp?size=100" width="100px;" alt=""/>
+  <img align="right" src="https://avatars3.githubusercontent.com/PRANAVPATIL234?size=100" width="100px;" alt=""/>
 
 - 👨‍💻 My name is **Pranav Patil**
 - 🌱 I’m a Android Developer.
 - 📫 Reach me: **pranavpatil5260@gmail.com**
 - 🔭 Connect with me: **[PRANAVPATIL234](https://github.com/PRANAVPATIL234))**
+
+---
