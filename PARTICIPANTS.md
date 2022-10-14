@@ -92,6 +92,16 @@
 ---
 ### Connect with me:
 
+ <img align="right" src="https://avatars.githubusercontent.com/u/56904319?v=4 size=100" width="100px;" alt=""/>
+
+- 👨‍💻 My name is **Prakhar Khandelwal**
+- 🌱 I’m a Competetive Programmer and DevOps Enthusiast.
+- 📫 Reach me: **tiglon.root@gmail.com**
+- 🔭 Connect with me: **[Prakhar Khandelwal](https://github.com/tigllon)**
+
+---
+### Connect with me:
+
   <img align="right" src="https://avatars3.githubusercontent.com/<Github-ID>?size=100" width="100px;" alt=""/>
 
 - 👨‍💻 My name is *<Name>r**
