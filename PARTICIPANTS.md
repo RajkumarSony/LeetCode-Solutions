@@ -70,5 +70,5 @@
 - 🌱 I’m a Android Developer.
 - 📫 Reach me: **pranavpatil5260@gmail.com**
 - 🔭 Connect with me: **[PRANAVPATIL234](https://github.com/PRANAVPATIL234))**
-
+ 
 ---
