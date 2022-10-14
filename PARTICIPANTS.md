@@ -91,6 +91,14 @@
 ---
 ### Connect with me:
 
+ <img align="right" src="https://avatars3.githubusercontent.com/11-yashasvi?size=100" width="100px;" alt=""/>
+
+- 👨‍💻 My name is ** Yashasvi Baliyan**
+- 🌱 I’m an Android Development enthusiast.
+- 📫 Reach me: **yashasvibaliyan11@gmail.com**
+- 🔭 Connect with me: **[11-yashasvi](https://github.com/11-yashasvi)**
+### Connect with me:
+
   <img align="right" src="https://avatars3.githubusercontent.com/<Github-ID>?size=100" width="100px;" alt=""/>
 
 - 👨‍💻 My name is *<Name>r**
@@ -99,3 +107,4 @@
 - 🔭 Connect with me: **[<Github-ID>](https://github.com/<Github-ID>)**
 
 ---
+
