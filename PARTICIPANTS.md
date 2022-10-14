@@ -121,3 +121,14 @@
 - 🔭 Connect with me: **[jainmalaykumar](https://github.com/jainmalaykumar))**
 
 ---
+
+### Connect with me:
+
+<img align="right" src="https://avatars3.githubusercontent.com/AUM-PATEL2624?size=100" width="100px;" alt=""/>
+
+- 👨‍💻 My name is **Aum Patel**
+- 🌱 I’m a Student.
+- 📫 Reach me: **aumpatelc36@gmail.com**
+- 🔭 Connect with me: **[AUM-PATEL2624](https://github.com/AUM-PATEL2624)**  
+  
+ ---
