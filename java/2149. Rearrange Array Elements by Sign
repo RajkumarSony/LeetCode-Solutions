@@ -1,0 +1,25 @@
+class Solution {
+    public int[] rearrangeArray(int[] nums) {
+        int pnum[]=new int[nums.length/2];
+        int nnum[]=new int[nums.length/2];
+        int p=0,n=0;
+        for(int i=0;i<nums.length;i++){
+            if(nums[i]<0){
+                nnum[n]=nums[i];
+                n++;
+            }
+            else if(nums[i]>0){
+                pnum[p]=nums[i];
+                p++;
+            }
+        }
+        int ans[]=new int[nums.length];
+        int cnt=0;
+        for(int i=0;i<nums.length;i+=2){
+            ans[i]=pnum[cnt];
+            ans[i+1]=nnum[cnt];
+            cnt++;
+        }
+        return ans;
+    }
+}
