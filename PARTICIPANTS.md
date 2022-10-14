@@ -10,11 +10,23 @@
 ---
 ### Connect with me:
 
-<img align="right" src="https://avatars3.githubusercontent.com/RajkumarSony?size=100" width="100px;" alt=""/>
+<img align="right" src="https://avatars3.githubusercontent.com/kuldip23798?size=100" width="100px;" alt=""/>
 
 - 👨‍💻 My name is **RAJ KUMAR SONY**
 - 🌱 I’m a FullStack Developer.
 - 📫 Reach me: **rk.sony4848@gmail.com**
+- 🔭 Connect with me: **[Kuldip](https://github.com/kuldip23798/)**
+
+---
+
+---
+### Connect with me:
+
+<img align="right" src="https://avatars3.githubusercontent.com/RajkumarSony?size=100" width="100px;" alt=""/>
+
+- 👨‍💻 My name is **KULDIP**
+- 🌱 I’m a Backend Developer.
+- 📫 Reach me: **kuldipbhanushali3@gmail.com**
 - 🔭 Connect with me: **[RajkumarSony](https://github.com/RajkumarSony/)**
 
 ---
@@ -66,19 +78,8 @@
 - 👨‍💻 My name is **Sandesh Powar**
 - 🌱 I’m a Web Developer.
 - 📫 Reach me: **sandeshpowarofficial@gmail.com**
-
 - 🔭 Connect with me: **[Sam0204](https://github.com/Sam0204))**
----
-  <img align="right" src="https://avatars3.githubusercontent.com/SwastikMo?size=100" width="100px;" alt=""/>
 
-- 👨‍💻 My name is **Swastik Mohapatra**
-- 🌱 I’m a ML enthusiast.
-- 📫 Reach me: **swastikmohapatra13@gmail.com**
-- 🔭 Connect with me: **[SwastikMo](https://github.com/SwastikMo))**
-
-- 🔭 Connect with me: **[Sam0204](https://github.com/Sam0204)**
-
----
 ### Connect with me:
 
  <img align="right" src="https://avatars3.githubusercontent.com/SwastikMo?size=100" width="100px;" alt=""/>
