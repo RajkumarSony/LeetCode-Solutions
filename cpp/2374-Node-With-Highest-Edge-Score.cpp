@@ -24,6 +24,12 @@ Maintain a vector in which corresponding to a given node (lets call it i), add t
 Then traverse the vector , and find out the index of the node with the maximum label value.
 To make ensure that if two or more nodes are there with same maximum value then we should choose the node with smallest index , use < condition  instead of <=.
 Return that index. That's all we have to do.
+
+Analysis
+--------
+Time Complexity -: O(N)
+Auxillary Space Complexity -: O(N)
+
 */
 
 class Solution {
