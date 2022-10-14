@@ -19,6 +19,18 @@
 
 ---
 
+---
+### Connect with me:
+
+<img align="right" src="https://avatars3.githubusercontent.com/kuldip23798?size=100" width="100px;" alt=""/>
+
+- 👨‍💻 My name is **KULDIP**
+- 🌱 I’m a Backend Developer.
+- 📫 Reach me: **kuldipbhanushali3@gmail.com**
+- 🔭 Connect with me: **[Kuldip](https://github.com/RajkumarSony/)**
+
+---
+
 ### Connect with me:
 
 <img align="right" src="https://avatars3.githubusercontent.com/Harshdev625?size=100" width="100px;" alt=""/>
@@ -66,19 +78,8 @@
 - 👨‍💻 My name is **Sandesh Powar**
 - 🌱 I’m a Web Developer.
 - 📫 Reach me: **sandeshpowarofficial@gmail.com**
-
 - 🔭 Connect with me: **[Sam0204](https://github.com/Sam0204))**
----
-  <img align="right" src="https://avatars3.githubusercontent.com/SwastikMo?size=100" width="100px;" alt=""/>
 
-- 👨‍💻 My name is **Swastik Mohapatra**
-- 🌱 I’m a ML enthusiast.
-- 📫 Reach me: **swastikmohapatra13@gmail.com**
-- 🔭 Connect with me: **[SwastikMo](https://github.com/SwastikMo))**
-
-- 🔭 Connect with me: **[Sam0204](https://github.com/Sam0204)**
-
----
 ### Connect with me:
 
  <img align="right" src="https://avatars3.githubusercontent.com/SwastikMo?size=100" width="100px;" alt=""/>
@@ -91,11 +92,32 @@
 ---
 ### Connect with me:
 
+ <img align="right" src="https://avatars.githubusercontent.com/u/56904319?v=4 size=100" width="100px;" alt=""/>
+
+- 👨‍💻 My name is **Prakhar Khandelwal**
+- 🌱 I’m a Competetive Programmer and DevOps Enthusiast.
+- 📫 Reach me: **tiglon.root@gmail.com**
+- 🔭 Connect with me: **[Prakhar Khandelwal](https://github.com/tigllon)**
+
+---
+### Connect with me:
+
   <img align="right" src="https://avatars3.githubusercontent.com/<Github-ID>?size=100" width="100px;" alt=""/>
 
 - 👨‍💻 My name is *<Name>r**
 - 🌱 I’m a <Profession>.
 - 📫 Reach me: **<Email-ID>**
 - 🔭 Connect with me: **[<Github-ID>](https://github.com/<Github-ID>)**
+
+---
+
+### Connect with me:
+
+<img align="right" src="https://avatars3.githubusercontent.com/manavagr1108?size=100" width="100px;" alt=""/>
+
+- 👨‍💻 My name is **Malay Kumar Jain**
+- 🌱 I’m a Java Developer.
+- 📫 Reach me: **malayjain1308@gmail.com**
+- 🔭 Connect with me: **[jainmalaykumar](https://github.com/jainmalaykumar))**
 
 ---
