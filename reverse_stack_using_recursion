@@ -1,0 +1,91 @@
+// Reverse a Stack Using Recursion.
+/*
+
+INPUT:
+1 2 3 4
+
+OUTPUT :
+
+4 3 2 1
+
+Problem statement:
+Reverse the elements of the stack without using loop or any extra stack.
+
+Approach :
+
+We first empty the stack by holding all the elements of the stack in the function call stack  and then when 
+we reach the bottom (i.e stack.size() == 0) then we insert the elements in returning face of the function */
+
+
+#include <iostream>
+#include<stack>
+using namespace std;
+
+
+void insert_last(stack<int> & st,int ele)
+{
+    
+    if(st.empty())
+    {
+        st.push(ele);
+        return;
+    }
+    
+    
+    int topee=st.top();
+    st.pop();
+    
+    insert_last(st,ele);
+    
+    st.push(topee);
+    
+    
+}
+
+
+void reverse_stack(stack<int> &st)
+{
+    if(st.empty())
+    return;
+    
+    int topee=st.top();
+    st.pop();
+    
+    reverse_stack(st);
+    
+    insert_last(st,topee);
+}
+
+
+int main()
+{
+    stack<int> st;
+    
+    int n;
+    cin>>n;
+    
+    for(int i=0;i<n;i++)
+    {
+        int p;
+        cin>>p;
+        st.push(p);
+    }
+    
+    
+    reverse_stack(st);
+    
+    
+  while(!st.empty())
+  {
+      cout<<st.top()<<" ";
+      
+      st.pop();
+  }
+    
+    
+    
+    
+    
+
+    return 0;
+}
