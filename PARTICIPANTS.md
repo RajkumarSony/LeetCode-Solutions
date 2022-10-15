@@ -104,6 +104,16 @@
 
   <img align="right" src="https://avatars3.githubusercontent.com/<Github-ID>?size=100" width="100px;" alt=""/>
 
+- 👨‍💻 My name is *<Hasnat Ahmed>r**
+- 🌱 I’m a full stack developer.
+- 📫 Reach me: **hasnaat93@gmail.com**
+- 🔭 Connect with me: **[hasnaat93](https://github.com/hasnaat93)**
+
+---
+### Connect with me:
+
+  <img align="right" src="https://avatars3.githubusercontent.com/<Github-ID>?size=100" width="100px;" alt=""/>
+
 - 👨‍💻 My name is *<Name>r**
 - 🌱 I’m a <Profession>.
 - 📫 Reach me: **<Email-ID>**
