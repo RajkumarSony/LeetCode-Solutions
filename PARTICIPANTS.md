@@ -142,3 +142,13 @@
 - 🔭 Connect with me: **[Piyushjar](https://github.com/piyushjar))**
 
 ---
+
+### Connect with me:
+
+<img align="right" src="https://github.com/roshan-byte/?size=100" width="100px;" alt=""/>
+
+- 👨‍💻 My name is **Roshan Kumar**
+- 🌱 I’m a Data Analyst.
+- 📫 Reach me: **rohits9213@gmail.com**
+- 🔭 Connect with me: **[RoshanKumar](https://github.com/roshan-byte/)**
+---
