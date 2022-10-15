@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, Welcome Contributers!!</h1>
 
 <p align="center">
@@ -8,6 +7,7 @@
 <h3 align="center">HacktoberFest 2022 contributers details</h3>
 
 ---
+
 ### Connect with me:
 
 <img align="right" src="https://avatars3.githubusercontent.com/RajkumarSony?size=100" width="100px;" alt=""/>
@@ -20,6 +20,7 @@
 ---
 
 ---
+
 ### Connect with me:
 
 <img align="right" src="https://avatars3.githubusercontent.com/kuldip23798?size=100" width="100px;" alt=""/>
@@ -41,6 +42,7 @@
 - 🔭 Connect with me: **[Harshdev625](https://github.com/Harshdev625)**
 
 ---
+
 ### Connect with me:
 
 <img align="right" src="https://avatars3.githubusercontent.com/manavagr1108?size=100" width="100px;" alt=""/>
@@ -51,6 +53,7 @@
 - 🔭 Connect with me: **[manavagr1108](https://github.com/manavagr1108)**
 
 ---
+
 ### Connect with me:
 
   <img align="right" src="https://avatars3.githubusercontent.com/rivubanerjee04?size=100" width="100px;" alt=""/>
@@ -61,6 +64,7 @@
 - 🔭 Connect with me: **[rivubanerjee04](https://github.com/rivubanerjee04)**
 
 ---
+
 ### Connect with me:
 
   <img align="right" src="https://avatars3.githubusercontent.com/sarapapa-sp?size=100" width="100px;" alt=""/>
@@ -71,6 +75,7 @@
 - 🔭 Connect with me: **[rivubanerjee04](https://github.com/sarapapa-sp)**
 
 ---
+
 ### Connect with me:
 
   <img align="right" src="https://avatars3.githubusercontent.com/Sam0204?size=100" width="100px;" alt=""/>
@@ -90,6 +95,7 @@
 - 🔭 Connect with me: **[SwastikMo](https://github.com/SwastikMo)**
 
 ---
+
 ### Connect with me:
 
  <img align="right" src="https://avatars.githubusercontent.com/u/56904319?v=4 size=100" width="100px;" alt=""/>
@@ -100,11 +106,12 @@
 - 🔭 Connect with me: **[Prakhar Khandelwal](https://github.com/tigllon)**
 
 ---
+
 ### Connect with me:
 
   <img align="right" src="https://avatars3.githubusercontent.com/<Github-ID>?size=100" width="100px;" alt=""/>
 
-- 👨‍💻 My name is *<Name>r**
+- 👨‍💻 My name is \*<Name>r\*\*
 - 🌱 I’m a <Profession>.
 - 📫 Reach me: **<Email-ID>**
 - 🔭 Connect with me: **[<Github-ID>](https://github.com/<Github-ID>)**
@@ -132,6 +139,7 @@
 - 🔭 Connect with me: **[Vikash0122](https://github.com/Vikash0122))**
 
 ---
+
 ### Connect with me:
 
 <img align="right" src="https://avatars3.githubusercontent.com/<Github-ID>?size=100" width="100px;" alt=""/>
@@ -140,5 +148,16 @@
 - 🌱 I’m a JavaScript Developer.
 - 📫 Reach me: **rajpiyush100@gmail.com**
 - 🔭 Connect with me: **[Piyushjar](https://github.com/piyushjar))**
+
+---
+
+### Connect with me:
+
+<img align="right" src="https://avatars3.githubusercontent.com/manassahoo-dev?size=100" width="100px;" alt="Manas Sahoo"/>
+
+- 👨‍💻 My name is **Manas Sahoo**
+- 🌱 I’m a Senior Frontend Developer.
+- 📫 Reach me: **manas_sahoo@outlook.com**
+- 🔭 Connect with me: **[Manas Sahoo](https://github.com/manassahoo-dev))**
 
 ---
