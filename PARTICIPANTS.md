@@ -121,6 +121,17 @@
 - 🔭 Connect with me: **[jainmalaykumar](https://github.com/jainmalaykumar))**
 
 ---
+
+### Connect with me:
+
+<img align="right" src="https://avatars3.githubusercontent.com/Vikash0122?size=100" width="100px;" alt=""/>
+
+- 👨‍💻 My name is **Vikash Kumar**
+- 🌱 I’m a Tech Enthusiast.
+- 📫 Reach me: **vikash220104@gmail.com**
+- 🔭 Connect with me: **[Vikash0122](https://github.com/Vikash0122))**
+
+---
 ### Connect with me:
 
 <img align="right" src="https://avatars3.githubusercontent.com/<Github-ID>?size=100" width="100px;" alt=""/>
