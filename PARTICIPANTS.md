@@ -145,7 +145,7 @@
   
   ### Connect with me:
 
-<img align="right" src="https://avatars3.githubusercontent.com/<Vaishnvee-Shinde>?size=100" width="100px;" alt=""/>
+<img align="right" src="https://avatars3.githubusercontent.com/Vaishnvee-shinde?size=100" width="100px;" alt=" Vaishnvee Shinde"/>
 
 - 👨‍💻 My name is **Vaishnvee Shinde**
 - 🌱 I’m a Full Stack Developer Developer.
