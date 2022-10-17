@@ -142,3 +142,14 @@
 - 🔭 Connect with me: **[Piyushjar](https://github.com/piyushjar))**
 
 ---
+  
+  ### Connect with me:
+
+<img align="right" src="https://avatars3.githubusercontent.com/Vaishnvee-shinde?size=100" width="100px;" alt=" Vaishnvee Shinde"/>
+
+- 👨‍💻 My name is **Vaishnvee Shinde**
+- 🌱 I’m a Full Stack Developer Developer.
+- 📫 Reach me: **vaishnvee.s.shinde@gmail.com**
+- 🔭 Connect with me: **[Piyushjar](https://github.com/Vaishnvee-Shinde))**
+
+---
