@@ -142,3 +142,11 @@
 - 🔭 Connect with me: **[Piyushjar](https://github.com/piyushjar))**
 
 ---
+### Connect with me:
+
+<img align="right" src="https://avatars3.githubusercontent.com/pratyushraj7?size=100" width="100px;" alt=""/>
+
+- 👨‍💻 My name is **Pratyush**
+- 🌱 I’m a JavaScript Developer.
+- 📫 Reach me: **pratyushraj7@gmail.com**
+- 🔭 Connect with me: **[pratyushraj7](https://github.com/pratyushraj7))**
