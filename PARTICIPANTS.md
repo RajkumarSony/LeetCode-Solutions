@@ -142,3 +142,14 @@
 - 🔭 Connect with me: **[Piyushjar](https://github.com/piyushjar))**
 
 ---
+
+### Connect with me:
+
+<img align="right" src="https://avatars3.githubusercontent.com/kuldip23798?size=100" width="100px;" alt=""/>
+
+- 👨‍💻 My name is **GAURAV KUMAR**
+- 🌱 I’m a Software Developer Engineer.
+- 📫 Reach me: **gkjalap001@gmail.com**
+- 🔭 Connect with me: **[Gaurav Kumar](https://github.com/gauravjalap/)**
+
+---
