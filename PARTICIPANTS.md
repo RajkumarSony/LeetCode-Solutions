@@ -142,3 +142,13 @@
 - 🔭 Connect with me: **[Piyushjar](https://github.com/piyushjar))**
 
 ---
+### Connect with me:
+
+  <img align="right" src="https://avatars3.githubusercontent.com/19sajib?size=100" width="100px;" alt=""/>
+
+- 👨‍💻 My name is **Sajib**
+- 🌱 I’m a MERN Stack Developer.
+- 📫 Reach me: **contact2sajib@gmail.com**
+- 🔭 Connect with me: **[19sajib](https://github.com/19sajib)**
+
+---
