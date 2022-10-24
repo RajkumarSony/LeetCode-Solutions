@@ -36,15 +36,17 @@ public:
         roman.insert(make_pair('D',500));
         roman.insert(make_pair('M',1000));
         int len=s.length(), num, sum=0;
-        for(int i=0; i<len; i++)
+        for(int i=0; i<len;)
         {
             if(i==(len-1) || (roman[s[i]] >= roman[s[i+1]]))
             {
                 num=roman[s[i]];
+                 i++;
             }
             else
             {
                 num=roman[s[i+1]]-roman[s[i]];
+                i=i+2;
             }
             sum =sum +num;
         }
