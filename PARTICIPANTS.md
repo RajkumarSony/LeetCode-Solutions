@@ -142,3 +142,13 @@
 - 🔭 Connect with me: **[Piyushjar](https://github.com/piyushjar))**
 
 ---
+### Connect with me:
+
+<img align="right" src="https://avatars3.githubusercontent.com/ranjit7858?size=100" width="100px;" alt=""/>
+
+- 👨‍💻 My name is **Ranjit**
+- 🌱 I’m a Competitive Programmer.
+- 📫 Reach me: **rishicoc898741@gmail.com**
+- 🔭 Connect with me: **[Ranjit](https://github.com/ranjit7858))**
+
+---
