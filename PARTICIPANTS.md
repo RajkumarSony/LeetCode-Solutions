@@ -142,3 +142,15 @@
 - 🔭 Connect with me: **[Piyushjar](https://github.com/piyushjar))**
 
 ---
+
+---
+### Connect with me:
+
+<img align="right" src="https://avatars.githubusercontent.com/u/45764005?v=4" width="100px;" alt=""/>
+
+- 👨‍💻 My name is **Vinayak Jaiswal**
+- 🌱 I’m a FullStack Developer.
+- 📫 Reach me: **vinayakjaiswal48@gmail.com**
+- 🔭 Connect with me: **[Vinayakjaiswal07](https://github.com/Vinayakjaiswal07)**
+
+---
